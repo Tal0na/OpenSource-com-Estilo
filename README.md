@@ -1,6 +1,6 @@
 # OpenSource-com-Estilo
 
-Bem-vindo ao **OpenSource-com-Estilo**! Aqui você encontrará dicas e recomendações de softwares de código aberto que se destacam tanto pelo design quanto pela funcionalidade.
+Bem-vindo ao **OpenSource-com-Estilo**! Aqui você encontrará minhas dicas e recomendações de softwares de código aberto que se destacam tanto pelo design quanto pela funcionalidade.
 
 ## Objetivo
 
