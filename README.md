@@ -14,6 +14,7 @@ Nosso objetivo é fornecer uma curadoria de softwares open source que combinam u
   - [Sistemas Operacionais](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/sistemas-operacionais.md)
   - [Multimídia](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/Multimidia.md)
   - [Produtividade](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/produtividade.md)
+  - [Office](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/Office.md)
   - [Desenvolvimento](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/Desenvolvimento.md)
 - [Como Contribuir](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/como-contribuir.md)
 - [Licença](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/LICENSE)
