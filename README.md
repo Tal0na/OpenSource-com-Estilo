@@ -9,7 +9,12 @@ Nosso objetivo é fornecer uma curadoria de softwares open source que combinam u
 ## Índice
 
 - [Introdução](#introdução)
-- [Recomendações de Software](#recomendações-de-software)
+- [Categorias](#categorias)
+  - [Navegadores](#navegadores)
+  - [Sistemas Operacionais](#sistemas-operacionais)
+  - [Multimídia](#multimídia)
+  - [Produtividade](#produtividade)
+  - [Desenvolvimento](#desenvolvimento)
 - [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
 
@@ -17,10 +22,12 @@ Nosso objetivo é fornecer uma curadoria de softwares open source que combinam u
 
 O mundo do software open source é vasto e cheio de opções incríveis. No entanto, nem sempre é fácil encontrar programas que atendam às necessidades de usabilidade e design. Este repositório é dedicado a destacar aqueles que conseguem unir o melhor dos dois mundos.
 
-## Recomendações de Software
+## Categorias
 
-### 1. Nome do Software
-**Descrição:** Uma breve descrição do software e suas principais funcionalidades.
+### Navegadores
+
+#### 1. Nome do Navegador
+**Descrição:** Uma breve descrição do navegador e suas principais funcionalidades.
 
 **Principais características:**
 - Característica 1
@@ -29,8 +36,46 @@ O mundo do software open source é vasto e cheio de opções incríveis. No enta
 
 **Link:** [Site Oficial](#)
 
-### 2. Nome do Software
-**Descrição:** Uma breve descrição do software e suas principais funcionalidades.
+### Sistemas Operacionais
+
+#### 1. Nome do Sistema Operacional
+**Descrição:** Uma breve descrição do sistema operacional e suas principais funcionalidades.
+
+**Principais características:**
+- Característica 1
+- Característica 2
+- Característica 3
+
+**Link:** [Site Oficial](#)
+
+### Multimídia
+
+#### 1. Nome do Software Multimídia
+**Descrição:** Uma breve descrição do software multimídia e suas principais funcionalidades.
+
+**Principais características:**
+- Característica 1
+- Característica 2
+- Característica 3
+
+**Link:** [Site Oficial](#)
+
+### Produtividade
+
+#### 1. Nome do Software de Produtividade
+**Descrição:** Uma breve descrição do software de produtividade e suas principais funcionalidades.
+
+**Principais características:**
+- Característica 1
+- Característica 2
+- Característica 3
+
+**Link:** [Site Oficial](#)
+
+### Desenvolvimento
+
+#### 1. Nome do Software de Desenvolvimento
+**Descrição:** Uma breve descrição do software de desenvolvimento e suas principais funcionalidades.
 
 **Principais características:**
 - Característica 1
