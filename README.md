@@ -12,7 +12,7 @@ Nosso objetivo é fornecer uma curadoria de softwares open source que combinam u
 - [Categorias](#categorias)
   - [Navegadores](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/navegadores.md)
   - [Sistemas Operacionais](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/sistemas-operacionais.md)
-  - [Multimídia](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/multimidia.md)
+  - [Multimídia](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/Multim%C3%ADdia.md)
   - [Produtividade](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/produtividade.md)
   - [Desenvolvimento](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/desenvolvimento.md)
 - [Como Contribuir](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/como-contribuir.md)
