@@ -8,15 +8,15 @@ Nosso objetivo é fornecer uma curadoria de softwares open source que combinam u
 
 ## Índice
 
-- [Introdução](#introdução)
+- [Introdução](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/introducao.md)
 - [Categorias](#categorias)
-  - [Navegadores](#navegadores)
-  - [Sistemas Operacionais](#sistemas-operacionais)
-  - [Multimídia](#multimídia)
-  - [Produtividade](#produtividade)
-  - [Desenvolvimento](#desenvolvimento)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
+  - [Navegadores](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/navegadores.md)
+  - [Sistemas Operacionais](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/sistemas-operacionais.md)
+  - [Multimídia](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/multimidia.md)
+  - [Produtividade](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/produtividade.md)
+  - [Desenvolvimento](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/desenvolvimento.md)
+- [Como Contribuir](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/docs/como-contribuir.md)
+- [Licença](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/LICENSE)
 
 ## Introdução
 
@@ -24,7 +24,7 @@ O mundo do software open source é vasto e cheio de opções incríveis. No enta
 
 ## Como Contribuir
 
-Estamos sempre em busca de novas recomendações e melhorias. Sinta-se à vontade para abrir um [pull request](#) ou [issue](#) com suas sugestões.
+Estamos sempre em busca de novas recomendações e melhorias. Sinta-se à vontade para abrir um [pull request](https://github.com/Tal0na/OpenSource-com-Estilo/pulls) ou [issue](https://github.com/Tal0na/OpenSource-com-Estilo/issues) com suas sugestões.
 
 ### Contribuindo com Software
 
@@ -35,11 +35,11 @@ Estamos sempre em busca de novas recomendações e melhorias. Sinta-se à vontad
 
 ### Reportando Problemas
 
-Se você encontrar algum problema ou tiver sugestões para melhorias, por favor, abra um [issue](#).
+Se você encontrar algum problema ou tiver sugestões para melhorias, por favor, abra um [issue](https://github.com/Tal0na/OpenSource-com-Estilo/issues).
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Tal0na/OpenSource-com-Estilo/blob/main/LICENSE) para mais detalhes.
 
 ---
 
